@@ -144,6 +144,9 @@ main {
     max-width: 20rem;
     display: flex;
     flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .avter_content{
