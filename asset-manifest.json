@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Youtube-clone/static/css/main.abe78f61.css",
-    "main.js": "/Youtube-clone/static/js/main.0a8ffa1e.js",
-    "static/js/787.9cb6ef40.chunk.js": "/Youtube-clone/static/js/787.9cb6ef40.chunk.js",
-    "static/media/thumbnail.png": "/Youtube-clone/static/media/thumbnail.67e77b793e7f54686acf.png",
-    "static/media/video-gallary.svg": "/Youtube-clone/static/media/video-gallary.45f434b9b5c7fd95be54a6702b251419.svg",
-    "static/media/bell.svg": "/Youtube-clone/static/media/bell.a2270ac5bcff91de027f15724b8269e0.svg",
-    "static/media/dot-grid.svg": "/Youtube-clone/static/media/dot-grid.cf253a7f6c98a2d7c3809f26e673ce0b.svg",
-    "static/media/search.svg": "/Youtube-clone/static/media/search.bd34ef7a6460ee03c428338103d9c0cf.svg",
-    "static/media/video-add.svg": "/Youtube-clone/static/media/video-add.d9728015df370caa09a4324dca2809f9.svg",
-    "static/media/compass.svg": "/Youtube-clone/static/media/compass.050e430fc0b5981231afc81973e69d0c.svg",
-    "static/media/mic.svg": "/Youtube-clone/static/media/mic.0555070bf4640e82744566ebcaedb147.svg",
-    "static/media/bars.svg": "/Youtube-clone/static/media/bars.c8ae482ad25d96a27ee5f53aaa738aef.svg",
-    "index.html": "/Youtube-clone/index.html",
-    "static/media/home.svg": "/Youtube-clone/static/media/home.43eb1a04fca1fd53e24bdfaf609bd450.svg",
-    "static/media/dots.svg": "/Youtube-clone/static/media/dots.02cc263b6c9e4065023d91e331f4f777.svg",
-    "static/media/video-library.svg": "/Youtube-clone/static/media/video-library.02d690559cb59aebcce2448e0c24ff7d.svg",
-    "main.abe78f61.css.map": "/Youtube-clone/static/css/main.abe78f61.css.map",
-    "main.0a8ffa1e.js.map": "/Youtube-clone/static/js/main.0a8ffa1e.js.map",
-    "787.9cb6ef40.chunk.js.map": "/Youtube-clone/static/js/787.9cb6ef40.chunk.js.map"
+    "main.css": "/Youtube_clone/static/css/main.abe78f61.css",
+    "main.js": "/Youtube_clone/static/js/main.33e1e9e8.js",
+    "static/js/787.9cb6ef40.chunk.js": "/Youtube_clone/static/js/787.9cb6ef40.chunk.js",
+    "static/media/thumbnail.png": "/Youtube_clone/static/media/thumbnail.67e77b793e7f54686acf.png",
+    "static/media/video-gallary.svg": "/Youtube_clone/static/media/video-gallary.45f434b9b5c7fd95be54a6702b251419.svg",
+    "static/media/bell.svg": "/Youtube_clone/static/media/bell.a2270ac5bcff91de027f15724b8269e0.svg",
+    "static/media/dot-grid.svg": "/Youtube_clone/static/media/dot-grid.cf253a7f6c98a2d7c3809f26e673ce0b.svg",
+    "static/media/search.svg": "/Youtube_clone/static/media/search.bd34ef7a6460ee03c428338103d9c0cf.svg",
+    "static/media/video-add.svg": "/Youtube_clone/static/media/video-add.d9728015df370caa09a4324dca2809f9.svg",
+    "static/media/compass.svg": "/Youtube_clone/static/media/compass.050e430fc0b5981231afc81973e69d0c.svg",
+    "static/media/mic.svg": "/Youtube_clone/static/media/mic.0555070bf4640e82744566ebcaedb147.svg",
+    "static/media/bars.svg": "/Youtube_clone/static/media/bars.c8ae482ad25d96a27ee5f53aaa738aef.svg",
+    "index.html": "/Youtube_clone/index.html",
+    "static/media/home.svg": "/Youtube_clone/static/media/home.43eb1a04fca1fd53e24bdfaf609bd450.svg",
+    "static/media/dots.svg": "/Youtube_clone/static/media/dots.02cc263b6c9e4065023d91e331f4f777.svg",
+    "static/media/video-library.svg": "/Youtube_clone/static/media/video-library.02d690559cb59aebcce2448e0c24ff7d.svg",
+    "main.abe78f61.css.map": "/Youtube_clone/static/css/main.abe78f61.css.map",
+    "main.33e1e9e8.js.map": "/Youtube_clone/static/js/main.33e1e9e8.js.map",
+    "787.9cb6ef40.chunk.js.map": "/Youtube_clone/static/js/787.9cb6ef40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abe78f61.css",
-    "static/js/main.0a8ffa1e.js"
+    "static/js/main.33e1e9e8.js"
   ]
 }
