@@ -119,7 +119,7 @@ export default function Ytclone() {
                                     </div>
 
                                     <div className="content">
-                                        <h3> react Tutorial full course</h3>
+                                        <h3> react Tutorial full course </h3>
                                         <p className='channel_name'>Md Ashfak</p>
                                         <div className="content_status">
                                             <p>10M views</p>

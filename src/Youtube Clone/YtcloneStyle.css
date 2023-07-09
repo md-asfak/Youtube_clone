@@ -188,6 +188,9 @@ main {
         display: none;
     }
 
+    .logo{
+        margin-right: .3125rem;
+    }
     .side_nav {
         margin-left: 3.125rem;
     }
@@ -200,6 +203,7 @@ main {
     .tag {
         padding: .75rem .625rem;
         text-align: center;
+        margin-right: .3125rem;
         
        
        
@@ -228,7 +232,17 @@ main {
     }
     
 
+    .avter_content {
+        margin-right: .625rem ;
+    }
 
+    .dots {
+        width: 1.875rem;
+    }
+
+    .avter {
+        margin-right: .625rem;
+    }
 }
 
 
